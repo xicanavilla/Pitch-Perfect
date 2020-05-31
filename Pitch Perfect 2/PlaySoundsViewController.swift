@@ -2,7 +2,7 @@
 //  PlaySoundsViewController.swift
 //  Pitch Perfect 2
 //
-//  Created by Margarita Villa on 5/2/20.
+//  Created by Margarita on 5/2/20.
 //  Copyright © 2020 Udacity. All rights reserved.
 //
 

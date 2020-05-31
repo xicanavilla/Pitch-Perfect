@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Pitch Perfect 2
 //
-//  Created by Margarita Villa on 4/30/20.
+//  Created by Margarita on 4/30/20.
 //  Copyright © 2020 Udacity. All rights reserved.
 //
 
